@@ -7,6 +7,10 @@ html{background-color: orchid;
 p{color: white; 
   
 }
- h3{font:Papyrus; }
+ h3 {
+  font-family: Georgia, serif;
+}
 * {text-align: center; 
   color: white ;}
+/* additions made to font family*?
+h1{font-family: Georgia; }
